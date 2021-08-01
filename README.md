@@ -1,5 +1,5 @@
 <div align="right">
-<img width="55%" align="right"  src="**https://cdn.graph.office.net/prod/media/office/dev-program/home/Main_Hero_2_1259x472.png?v={1/string}" />
+<img width="55%" align="right"  src="https://cdn.graph.office.net/prod/media/office/dev-program/home/Main_Hero_2_1259x472.png" />
   
  M365 Developer 
 </div>
