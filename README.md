@@ -1,10 +1,8 @@
 <div align="right">
 <img width="55%" align="right"  src="https://cdn.graph.office.net/prod/media/office/dev-program/home/Main_Hero_2_1259x472.png" />
-  
- M365 Developer 
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> ABPURO -  M365 Developer
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abpuro.abpuro)
