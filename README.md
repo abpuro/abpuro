@@ -1,5 +1,5 @@
 <div align="right">
-<img width="55%" align="right"  src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2014/07/O365-Developer-Patterns-Practices-768x256.png" />
+<img width="55%" align="right"  src="https://cdn.graph.office.net/prod/media/office/dev-program/home/Main_Hero_2_1259x472.png" />
 </div>
 
 <h1> ABPURO -  Microsoft 365 Developer </h1>
