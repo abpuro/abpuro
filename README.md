@@ -1,10 +1,11 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abpuro.abpuro)
 <div align="right">
 <img width="55%" align="right"  src="https://cdn.graph.office.net/prod/media/office/dev-program/home/Main_Hero_2_1259x472.png" />
 </div>
 
 <h1> ABPURO -  Microsoft 365 Developer </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abpuro.abpuro)
+
 
 <a href = 'https://www.linkedin.com/in/abhishek-purohit-91019b9'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/abpuro'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
