@@ -22,7 +22,7 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img width ='64px' src ="https://banner2.cleanpng.com/20180512/qpw/kisspng-microsoft-teams-microsoft-office-365-sharepoint-co-5af6c8644dca97.8452035115261225963186.jpg" />
+<img width ='64px' src ="https://static2.sharepointonline.com/files/fabric-cdn-prod_20200430.002/assets/brand-icons/product/svg/teams_48x1.svg" />
 
 
 
